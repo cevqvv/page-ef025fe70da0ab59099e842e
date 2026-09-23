@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b1f4e202748d1600a029bc7b",
+  "owner": "cevqvv",
+  "repo": "page-ef025fe70da0ab59099e842e",
+  "title": "BYTEDOG",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ef025fe70da0ab59099e842e",
+      "a": "BYTEDOG",
+      "b": "机场官网线路发布页",
+      "entity": "BYTEDOG",
+      "brand": "BYTEDOG",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "760d525ac7095bfe24528fa9b722182f29425468f6660fd9f8a77b9d2f3bb728",
+      "content": {
+        "primary_entity": "BYTEDOG",
+        "keyword1": "BYTEDOG",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择订阅客户端，桌面端与移动端均有成熟工具。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量挑选套餐，再按客户端文档完成订阅导入。",
+          "AI_CLOSING_TITLE": "选对套餐，连上线路",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，分别对应 3 台、5 台与 20 台设备同时在线，月流量从 100GB 到 1000GB，按年付有对应优惠价格。客户端覆盖桌面与移动平台，可依据设备类型选择订阅工具，按说明完成配置。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机加电脑的轻度使用；旗舰版提升到 5 台，团队版可支持 20 台设备同时在线，按人数和终端数量选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。日常浏览与视频用量较大时，建议旗舰版起步；多设备共享流量选团队版更从容。",
+          "AI_FAQ_ANSWER_3": "桌面端可按系统选择常用订阅客户端，移动端也有对应工具。不同设备的适配情况以客户端说明为准，选好客户端后导入订阅即可使用。",
+          "AI_FAQ_ANSWER_4": "订阅周期按自然月计算，也可以按年付。按年付的基础版为 ¥150/年，旗舰版为 ¥350/年，团队版为 ¥850/年，长期使用更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版提供 VIP 高带宽节点、企业定制路由和专属客户经理，可按使用场景升级。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量额度怎么选比较合适？",
+          "AI_FAQ_QUESTION_3": "哪些客户端可以搭配 BYTEDOG 使用？",
+          "AI_FAQ_QUESTION_4": "订阅周期和按年付价格是怎样的？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版相比基础版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个角度对比三档套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用终端数量匹配，避免频繁切换登录。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档月流量对应轻量浏览、流媒体和多人共享场景，按用量选择更均衡。",
+          "AI_FEATURE_TEXT_3": "按月订阅灵活试用，按年付享受优惠价格，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量额度",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "先确定使用设备与流量需求，再按客户端说明完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "BYTEDOG 提供基础版、旗舰版与团队版三档订阅，覆盖 3 到 20 台设备同时在线，月流量从 100GB 到 1000GB。按设备数量与用量选择套餐，配合订阅客户端即可完成配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "按年付享对应优惠价格",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备的数量和每月大致用量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的设备数量、流量额度和线路特性，确认是否符合使用场景。",
+          "AI_STEP_TEXT_3": "按设备类型选择客户端，依照客户端文档导入订阅信息，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BYTEDOG 订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tyseee.cn",
+    "host": "tyseee.cn"
+  },
+  "file_hashes": {
+    "index.html": "da16a5af74b8260c0385f09b67f89f6fe9db7336b86213c11c4071e4672dcce6",
+    "sitemap.xml": "80dfa1a512160322de347bbce46e886b34833718912c9dbf58d49b692ba27ae5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e1b5712046b2b3b3a1e34b111b6c963e4b2b801bbda7357841b3bd9d073143e3",
+    "robots.txt": "779a2d4b4696bdb55dd5937e119114cbdfaaa0420c307bd7b37cd23e5e39af86",
+    "9f8f34aa54438c3e1e42d4948d5e4d5a.txt": "9e8831b4739393235ca506032c656c6229c81ab7f3a2d4bc775dcd1d876faa20"
+  },
+  "revision": "4048e59eed8a04fbeb3d0735044e4b6fa6f8e1876797a882b6ade8b6139be45b"
+}
